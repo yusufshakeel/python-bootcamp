@@ -1,0 +1,7 @@
+customer_id,order_id,price
+c1,o1,100
+c2,o2,200
+c3,o3,300
+c1,o4,200
+c2,o5,500
+c3,o6,900
